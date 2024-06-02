@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 150px;
+    height: 100px;
+}
+
+.itemlist {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.itemDetail{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    min-height: 100vh;
+     display: flex;
+     flex-direction: column;
+}
+
+.page-body{
+    padding:15px;
+}
