@@ -9,7 +9,7 @@ Las herramientas utilizadas en este proyecto son:
 -Firestore como base de datos
 -Bootstrap para estilos
 -Vite
--Se puede encontrar una versión deployada de la aplicación es este [enlace]
+-Se puede encontrar una versión deployada de la aplicación es este [enlace](https://react-proyecto-final-daniela.vercel.app/)
 
 ## Comandos 
 
